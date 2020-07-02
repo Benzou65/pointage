@@ -1,0 +1,26 @@
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+form{
+    display: flex;
+}
+form>div{
+    display: flex;
+    flex-direction: column;
+    margin: 0.5em;
+}
+input, select{
+    margin-bottom: 0.2em;
+    margin-left: 0.2em;
+}
+label{
+    margin-bottom: 0.4em;
+}
+label, form>div>a{
+    text-align: right;
+}
+td{
+    text-align: center;
+}

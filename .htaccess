@@ -1,0 +1,3 @@
+Options -Indexes
+ErrorDocument 404 http://www.pointage.fr/view/404.php
+ErrorDocument 403 http://www.pointage.fr/view/403.php
